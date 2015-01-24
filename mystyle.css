@@ -1,0 +1,38 @@
+h1 {
+	color: #ADFF2F;
+	font-family: 'Rockwell Extra Bold', 'Rockwell Bold', monospace;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 50px;
+	text-shadow: 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de;
+}
+
+p {
+	color: #FFADFF;
+	font-family: Perpetua, Baskerville, 'Big Caslon', 'Palatino Linotype', Palatino, 'URW Palladio L', 'Nimbus Roman No9 L', serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 150%
+}
+
+body {
+	background-color: black;
+}
+
+hx {
+	color: White;
+	font-size: 15px;
+	line-height: 0px;
+}
+
+ul {
+	color: White;
+}
+
+a {
+	color: MediumTurquoise;
+}
